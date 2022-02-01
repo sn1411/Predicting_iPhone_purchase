@@ -1,4 +1,4 @@
-# iPhone_purchase_predict
+# Predicting_iPhone_purchase
 # Case:
 Suppose that a survey is conducted in a mobile store where we collect information about the 
 customers who buy iPhone and who do not buy an iPhone. This information is our dataset. The 
