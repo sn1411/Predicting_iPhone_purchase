@@ -1,6 +1,5 @@
 # iPhone_purchase_predict
 # Case:
-CASE:
 Suppose that a survey is conducted in a mobile store where we collect information about the 
 customers who buy iPhone and who do not buy an iPhone. This information is our dataset. The 
 ultimate intent of this project is to build classifier models which predict if a customer who walks into 
