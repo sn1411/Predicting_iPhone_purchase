@@ -6,7 +6,7 @@ customers who buy iPhone and who do not buy an iPhone. This information is our d
 ultimate intent of this project is to build classifier models which predict if a customer who walks into 
 the store will buy an iPhone or not.
 
-In this project, I have built 7 different types of classifier models namely GaussianNB, Decision Tree, 
+In this project, I have built 7 different types of classifier models namely Naive Bayes, Decision Tree, 
 K- Nearest Neighbors, Logistic regression, Support Vector Machine (SVM), Random Forest and 
 XGBoost. To evaluate these models, I have used 2 different types of evaluation metrics namely, 
 Accuracy Score and Confusion Matrix.
