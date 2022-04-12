@@ -16,7 +16,7 @@ The following are the steps involved:
   This is a crucial step. After successfully importing the data, we can import the libraries
   whenever necessary
 2. Convert Gender to number. 
-  Since this project involves dealing with customers who are either male of female, therefore 
+  Since this project involves dealing with customers who are either male or female, therefore 
   we have to convert the data. Gender is a categorical variable which we have to convert to 
   numerical variable
 3. Feature selection and data split
